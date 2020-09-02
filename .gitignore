@@ -5,5 +5,5 @@
 /tmp
 /yarn.lock
 node_modules/
-.vscode/
-.circleci/
+.vscode
+.circleci
