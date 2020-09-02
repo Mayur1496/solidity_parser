@@ -1,5 +1,5 @@
 {
-  "name": "solidity_parser",
+  "name": "@mayur1496/solidity_parser",
   "description": "AST generator for solidity file",
   "version": "0.1.1",
   "author": " @Mayur1496",

@@ -4,10 +4,10 @@ solidity_parser
 CLI tool to generate AST for solidity file. Build on top of [**ConsenSys/solidity-parser-antlr**](https://github.com/ConsenSys/solidity-parser-antlr)
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/solidity_parser.svg)](https://npmjs.org/package/solidity_parser)
+[![Version](https://img.shields.io/npm/v/@mayur1496/solidity_parser.svg)](https://npmjs.org/package/solidity_parser)
 [![CircleCI](https://circleci.com/gh/Mayur1496/solidity_parser/tree/master.svg?style=shield)](https://circleci.com/gh/Mayur1496/solidity_parser/tree/master)
-[![Downloads/week](https://img.shields.io/npm/dw/solidity_parser.svg)](https://npmjs.org/package/solidity_parser)
-[![License](https://img.shields.io/npm/l/solidity_parser.svg)](https://github.com/Mayur1496/solidity_parser/blob/master/package.json)
+[![Downloads/week](https://img.shields.io/npm/dw/@mayur1496/solidity_parser.svg)](https://npmjs.org/package/solidity_parser)
+[![License](https://img.shields.io/npm/l/@mayur1496/solidity_parser.svg)](https://github.com/Mayur1496/solidity_parser/blob/master/package.json)
 
 
 
