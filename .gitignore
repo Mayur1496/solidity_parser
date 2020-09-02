@@ -4,6 +4,6 @@
 /dist
 /tmp
 /yarn.lock
-node_modules
-/.vscode
-/.circleci
+node_modules/
+.vscode/
+.circleci/
