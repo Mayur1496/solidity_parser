@@ -12,7 +12,7 @@ CLI tool to generate AST for solidity file. Build on top of [**ConsenSys/solidit
 
 
 ```sh-session
-$ npm install -g solidity_parser
+$ npm install -g @mayur1496/solidity_parser
 $ solidity_parser FILE_PATH
 executing on file...
 $ solidity_parser (-v|--version|version)
