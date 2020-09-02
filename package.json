@@ -1,7 +1,7 @@
 {
   "name": "@mayur1496/solidity_parser",
   "description": "AST generator for solidity file",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": " @Mayur1496",
   "bin": {
     "solidity_parser": "./bin/run"
