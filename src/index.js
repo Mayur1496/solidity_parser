@@ -15,9 +15,7 @@ class SolidityParserCommand extends Command {
         this.log(JSON.stringify(ast));
       } catch(e){
         this.log(e)
-        if (e instanceof parser.ParserError) {
-            this.log(e.errors)
-        }
+        this.error('Unable to parse the file successfully')
       }
     }else{
       this.error(`Incorrect File path : ${filePath}
